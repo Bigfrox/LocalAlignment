@@ -1,0 +1,3 @@
+> gi| Test case 1, Sequence 1    * Need one more sequence / No correct format *
+TTTACGTTT
+> gi| Test case 1, Sequence 2
